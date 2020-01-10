@@ -3,13 +3,13 @@ public class App {
 
 	public static void main(String[] args) {
 
-System.out.println("asdasdasdasdasdasd");
+System.out.println("asdasdasdaasdasdsdasdasd");
 
-System.out.println("zczxczxzxczxc");
+System.out.println("zczxczxzxcasdasdzxc");
 
-		System.out.println("e");
-		System.out.println("f");
-		System.out.println("g");
+		System.out.println("qweqwe");
+		System.out.println("jh");
+		System.out.println("a");
 
 
 	}
