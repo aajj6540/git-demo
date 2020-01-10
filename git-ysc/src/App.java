@@ -3,9 +3,8 @@ public class App {
 
 	public static void main(String[] args) {
 
-
-		System.out.println("I'm ");
-     System.out.println("YSC");
+int a= 1;
+System.out.println(a);
 	}
 
 }
