@@ -7,9 +7,9 @@ System.out.println("asdasdasdasdasdasd");
 
 System.out.println("zczxczxzxczxc");
 
-		System.out.println("e");
-		System.out.println("f");
-		System.out.println("g");
+		System.out.println("a");
+		System.out.println("s");
+		System.out.println("d");
 
 
 	}
